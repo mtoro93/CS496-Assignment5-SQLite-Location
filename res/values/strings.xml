@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android UI</string>
+    <string name="horizontal_activity">Horizontal Linear Layout</string>
+    <string name="constraint_activity">Constraint Layout</string>
+    <string name="grid_activity">Grid Layout</string>
+    <string name="relative_activity">Relative Layout</string>
+    <string name="linear_activity">Vertical Linear Layout</string>
+</resources>
